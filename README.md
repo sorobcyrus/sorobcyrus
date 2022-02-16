@@ -6,13 +6,14 @@
 - Azure SQL and Data 
 - Power BI, DAX, Power Query, Data Modeling
 - SSIS, ADF, ETL, ELT, Star and Snowflakes 
-- Synapse Analytics (1 year)
 
 
-##### I'm looking to collaborate on SQL, Azure, Power BI, ETL, BI
+
+##### I'm looking to collaborate on ETL / ELT projects involving Power BI and Azure environment. Anything data related, really. :)
 
 
-##### I can be reached at 
+##### Ping me!
+
 - sorobcyrus@outlook.com
 - https://www.linkedin.com/in/sorob-cyrus/
 
