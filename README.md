@@ -2,9 +2,9 @@
 ### I am a SQL Server developer, currently working on ETL / ELT projects utilizing Azure SQL, SQL Server, Power BI, ADF, SSIS and other data wrangling duties. 
 
 ##### I have 3-10 years of experience in:
-- SQL Server
-- Azure SQL and Data 
-- Power BI, DAX, Power Query, Data Modeling
+- SQL Server, Azure SQL and Data 
+- Data driven analysis
+- Power BI, DAX, Power Query, Data Transformation, Modeling, Analysis, Visuals.
 - SSIS, ADF, ETL, ELT, Star and Snowflakes 
 
 
